@@ -6,6 +6,7 @@
     <title>Latihan GIT Remote</title>
 </head>
 <body>
-    
+    <h1>Hello World</h1>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 </body>
 </html>
